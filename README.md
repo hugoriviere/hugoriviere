@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hugoriviere
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning `C`
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me hugo.riviere@edu.ece
 
 <!---
